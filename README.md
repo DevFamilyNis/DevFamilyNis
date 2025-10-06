@@ -1,6 +1,7 @@
 # Hi there, I'm Igor Mitrinović! 👋
 
-![1719353676035](https://github.com/user-attachments/assets/a0be9ff1-36d9-4689-8c29-e04ed5f61b10)
+![1719353676035](https://github.com/user-attachments/assets/c7229c37-314e-45d7-a8e3-9cc4dec317b6)
+
 
 
 ## About Me 🚀
