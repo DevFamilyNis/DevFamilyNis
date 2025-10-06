@@ -64,7 +64,7 @@ Stack: **Laravel 11**, **MySQL**, **Livewire**, **TailwindCSS**, **Laravel Rever
 
 <p align="center">
   <i>“I don’t just write code — I build systems that move businesses forward.”</i><br/>
-  Built with ❤️ by <b>Igor Mitrinović</b> — <a href="https://github.com/DevFamilyNis/IgorMitrinovic">visit profile</a>
+  Built with ❤️ by <b>Igor Mitrinović</b> — <a href="https://dev-family.in.rs">visit website</a>
 </p>
 
 <p align="center">
