@@ -10,11 +10,11 @@ I'm a self-taught **Fullstack Laravel Developer** with a strong focus on **busin
 Building Custom Web Applications for real life problems | TALL stack
 
 - 🔭 Currently working on: **EmPay** — a delivery payroll & analytics system  
-- ⚡ Also building: **AmpyGo.rs** — an e-bike rental system for delivery riders  
+- ⚡ Also building: **FleetManager.rs** — an e-bike rental system for delivery riders  
 - 🌱 Currently learning: **Laravel modular architecture**, **WebSockets**, and **system scalability patterns**  
-- 💬 Ask me about: **Laravel**, **MySQL optimization**, **REST APIs**, and **real-time communication with Slack/Traccar**  
+- 💬 Ask me about: **Laravel**, **MySQL optimization**, **Laravel best practices**, and **real-time communication with Slack/Traccar**  
 - 📫 Reach me at: **[dev.family.nis@gmail.com](mailto:dev.family.nis@gmail.com)**  
-- 🎯 Fun fact: My apps have helped clients grow their business by over **300%** in one year 🚀  
+- 🎯 Fun fact: My apps have helped clients grow their business let's talk how to boost your business 🚀  
 
 ---
 
