@@ -12,7 +12,7 @@ Building Custom Web Applications for real life problems | TALL stack
 - 🔭 Currently working on: **EmPay** — a delivery payroll & analytics system  
 - ⚡ Also building: **FleetManager.rs** — an e-bike rental system for delivery riders  
 - 🌱 Currently learning: **Laravel modular architecture**, **WebSockets**, and **system scalability patterns**  
-- 💬 Ask me about: **Laravel**, **MySQL optimization**, **Laravel best practices**, and **real-time communication with Slack/Traccar**  
+- 💬 Ask me about: **Laravel**, **MySQL optimization**, **Laravel best practices**  
 - 📫 Reach me at: **[dev.family.nis@gmail.com](mailto:dev.family.nis@gmail.com)**  
 - 🎯 Fun fact: My apps have helped clients grow their business let's talk how to boost your business 🚀  
 
@@ -42,14 +42,14 @@ Building Custom Web Applications for real life problems | TALL stack
 ### [⚡ FleetManager](https://fm-ampy.dev-family.in.rs/login)
 
 **FleetManager** is a web platform for **electric bike rental** — built for delivery professionals and companies.  
-Developed with **Laravel + Vue + MySQL**, plan integrated with **Banca Intesa payments** and **custom rental website synchronization**.
+Developed with **Laravel + MySQL**, plan integrated with **Banca Intesa payments** and **custom rental website synchronization**.
 
 ---
 
 ### [💰 EmPay](https://empay.rs)
 
-**EmPay** is a comprehensive **delivery payroll and analytics system**, helping partners and couriers manage finances, track revenue, and optimize performance.  
-Stack: **Laravel 11**, **MySQL**, **Livewire**, **TailwindCSS**, **Laravel Reverb (WebSockets)**.
+**EmPay** is a comprehensive ERP solution **delivery payroll and analytics system**, helping partners and couriers manage finances, track revenue, and optimize performance.  
+Stack: **Laravel**, **MySQL**, **Livewire**, **TailwindCSS**, **Laravel Reverb (WebSockets)**.
 
 ---
 
