@@ -1,6 +1,7 @@
 # Hi, I'm Igor Mitrinović
 
-![Profile Banner](https://github.com/user-attachments/assets/c7229c37-314e-45d7-a8e3-9cc4dec317b6)
+<img width="1547" height="783" alt="linkedinCover" src="https://github.com/user-attachments/assets/ca5e4ac8-1b90-407a-8542-50ca5fab1966" />
+
 
 ## Full-Stack Laravel Developer | Business Software Consultant | Founder of DevFamily
 
