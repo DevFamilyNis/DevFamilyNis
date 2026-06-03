@@ -1,4 +1,3 @@
-# Hi, I'm Igor Mitrinović
 
 <img width="1547" height="783" alt="linkedinCover" src="https://github.com/user-attachments/assets/ca5e4ac8-1b90-407a-8542-50ca5fab1966" />
 
